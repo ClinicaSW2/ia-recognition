@@ -1,0 +1,6 @@
+Training
+.venv
+Model
+./Scripts/Model/
+Scripts/Model/label_encoder.joblib
+Scripts/Model/modelo_entrenado.keras
